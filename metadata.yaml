@@ -1,0 +1,30 @@
+_repo: Perpetual-Motion_44771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44771-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Dircks, Henry
+    alias: Dircks, H. (Henry)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '42433'
+    url: http://www.gutenberg.org/2009/agents/42433
+  - agent_name: Verance, Percy
+    gutenberg_agent_id: '42915'
+    url: http://www.gutenberg.org/2009/agents/42915
+description: ''
+gutenberg_issued: '2014-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Perpetual motion'
+title: Perpetual Motion
+url: http://www.gutenberg.org/ebooks/44771
